@@ -4,6 +4,8 @@
 
 ![Project Logo](link_to_logo_if_available)
 
+CHECK THE PROJECT HERE : (http://localhost/studentENROLLMENTsystem/admin/login.php)
+
 The Student Enrollment System is a web-based application developed using PHP that simplifies and streamlines the process of enrolling students into courses. This system provides an efficient way for both students and administrators to manage course enrollments, ensuring a smooth and organized enrollment process.
 
 ## Features
