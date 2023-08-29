@@ -4,7 +4,10 @@
 
 ![Project Logo](link_to_logo_if_available)
 
-CHECK THE PROJECT HERE : (http://localhost/studentENROLLMENTsystem/admin/login.php)
+
+NOTE: this is not hosted link because i have not hosted this site yet on search engine...
+      but we can hoste it easily without any cost with the various hosting platform called 000WEBHOST,NEFTLIFY ETC..
+CHECK THE PROJECT HERE(A LOCAL LINK IT IS APPLICABLE FOR YUB ALSO IF YOU ARE MAKING THE SAME ROOT DIREC : (http://localhost/studentENROLLMENTsystem/admin/login.php)
 
 The Student Enrollment System is a web-based application developed using PHP that simplifies and streamlines the process of enrolling students into courses. This system provides an efficient way for both students and administrators to manage course enrollments, ensuring a smooth and organized enrollment process.
 
